@@ -1,0 +1,1 @@
+A simple aws query generator in Ruby. Now support GET and POST.
